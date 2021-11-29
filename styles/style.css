@@ -1,0 +1,80 @@
+.title {
+  position: fixed;
+  right: 5%;
+  top: 8%;
+}
+.logo {
+  width: 200px;
+  position: fixed;
+  top: 0%;
+}
+.today {
+  position: fixed;
+  top: 34%;
+  left: 5%;
+  font-family: "Courier New", Courier, monospace;
+  font-size: 23px;
+}
+.date {
+  position: fixed;
+  top: 34%;
+  left: 12%;
+  font-family: "Courier New", Courier, monospace;
+  font-size: 23px;
+}
+.rain {
+  position: fixed;
+  width: 10%;
+  top: 30%;
+  left: 40%;
+}
+.details {
+  position: fixed;
+  right: 10%;
+  top: 33%;
+  font-size: 25px;
+  font-family: "Courier New", Courier, monospace;
+}
+.nextweek {
+  position: fixed;
+  top: 60%;
+  left: 20%;
+}
+.dates {
+  bottom: 20%;
+  position: fixed;
+  left: 27%;
+}
+.credit {
+  position: fixed;
+  bottom: 0%;
+  left: 38%;
+}
+.currentTime {
+  position: fixed;
+  top: 40%;
+  left: 5%;
+  font-family: "Courier New", Courier, monospace;
+  font-size: 23px;
+}
+.current-button {
+  position: fixed;
+  left: 50%;
+  top: 50%;
+}
+h1 {
+  font-family: "Courier New", Courier, monospace;
+  position: fixed;
+  right: 0%;
+  top: 5%;
+}
+h2 {
+  text-align: center;
+  position: fixed;
+  padding: 50px 10px;
+  left: 20%;
+}
+.button {
+  position: fixed;
+  left: 43%;
+}
